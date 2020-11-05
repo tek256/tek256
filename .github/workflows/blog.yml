@@ -13,5 +13,5 @@ jobs:
         with:
           feed_list: "https://tek256.com/posts/"
           max_post_count: 3
-          template: "$date [$title]($url)"
+          template: "$date [$title]($url) $newline"
           date_format: "mmm d yy"
