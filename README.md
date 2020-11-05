@@ -12,10 +12,9 @@
 
 <p><b>blog</b></p>
   
-<!-- BLOG-POST-LIST:START -->
-Nov 4 20 [make small](//tek256.com/posts/make-small/)  
-Oct 6 20 [thought: being remembered](//tek256.com/posts/being-remembered/)  
-Sep 20 20 [the portable developer](//tek256.com/posts/the-portable-developer/)  
+<!-- BLOG-POST-LIST:START -->Oct 06 [thought: being remembered](//tek256.com/posts/being-remembered/) 
+Sep 20 [the portable developer](//tek256.com/posts/the-portable-developer/) 
+Aug 17 [programming principles](//tek256.com/posts/programming-principles/) 
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><i>I see you, rxi.</i></p>
