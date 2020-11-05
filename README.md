@@ -13,6 +13,11 @@
 
 <h3 align="center">blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [thought: being remembered](//tek256.com/posts/being-remembered/)
+- [the portable developer](//tek256.com/posts/the-portable-developer/)
+- [programming principles](//tek256.com/posts/programming-principles/)
+- [quest across the US](//tek256.com/posts/quest-across-the-us/)
+- [code hardening](//tek256.com/posts/code-hardening/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><i>I see you, rxi.</i></p>
