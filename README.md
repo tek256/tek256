@@ -10,8 +10,8 @@
   <a href="https://github.com/tek256/aud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tek256&repo=simple-dark"></a>
 </p>
 
-
-<h3 align="center">blog posts</h3>
+<p><b>blog<b></p>
+  
 <!-- BLOG-POST-LIST:START -->
 - [thought: being remembered](//tek256.com/posts/being-remembered/)
 - [the portable developer](//tek256.com/posts/the-portable-developer/)
