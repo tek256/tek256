@@ -7,7 +7,7 @@
 <p align="center"><b>working on</b></p>
 <p align="center">
   <a href="https://github.com/tek256/astera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tek256&repo=astera"></a>
-  <a href="https://github.com/tek256/aud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tek256&repo=simple-dark"></a>
+  <a href="https://github.com/tek256/simple-dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tek256&repo=simple-dark"></a>
 </p>
 
 <p><b>blog</b></p>
