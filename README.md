@@ -10,4 +10,9 @@
   <a href="https://github.com/tek256/aud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tek256&repo=simple-dark"></a>
 </p>
 
+
+<h3 align="center">blog posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center"><i>I see you, rxi.</i></p>
