@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">tek256</h2>
 
-<!--
-**tek256/tek256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://twitch.tv/tek256">stream</a> | <a href="https://tek256.com/">blog</a>  
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><b>working on</b></p>
+<p align="center">
+  <a href="https://github.com/tek256/astera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tek256&repo=astera"></a>
+  <a href="https://github.com/tek256/aud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tek256&repo=aud"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>I see you, rxi.</i></p>
