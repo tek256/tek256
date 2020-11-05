@@ -12,6 +12,9 @@
 
 <p><b>blog<b></p>
   
-<!-- BLOG-POST-LIST:START -->Nov 4 20 [make small](//tek256.com/posts/make-small/)Oct 6 20 [thought: being remembered](//tek256.com/posts/being-remembered/)Sep 20 20 [the portable developer](//tek256.com/posts/the-portable-developer/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->Nov 4 20 [make small](//tek256.com/posts/make-small/) 
+Oct 6 20 [thought: being remembered](//tek256.com/posts/being-remembered/) 
+Sep 20 20 [the portable developer](//tek256.com/posts/the-portable-developer/) 
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center"><i>I see you, rxi.</i></p>
