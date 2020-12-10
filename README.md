@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://twitch.tv/tek256">stream</a> | <a href="https://tek256.com/">blog</a>  
-</p>
-
-<p><b>blog</b></p>
+<a href="https://tek256.com/"><b>blog</b></a>
   
 <!-- BLOG-POST-LIST:START -->
   Nov 16 [an argument for old hardware](//tek256.com/posts/an-argument-for-old-hardware/)  
@@ -11,5 +7,3 @@
 
   Sep 20 [the portable developer](//tek256.com/posts/the-portable-developer/)  
 <!-- BLOG-POST-LIST:END -->
-
-<p align="center"><i>I see you, rxi.</i></p>
