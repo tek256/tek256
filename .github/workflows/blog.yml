@@ -14,4 +14,4 @@ jobs:
           feed_list: "https://tek256.com/posts/"
           max_post_count: 5
           template: "$newline  $date [$title]($url)  $newline"
-          date_format: "mm dd yy"
+          date_format: "mm.dd.yy"
