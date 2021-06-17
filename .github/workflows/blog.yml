@@ -12,6 +12,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://tek256.com/posts/"
-          max_post_count: 3
+          max_post_count: 5
           template: "$newline  $date [$title]($url)  $newline"
-          date_format: "mmm dd"
+          date_format: "mm dd yy"
