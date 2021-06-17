@@ -1,5 +1,3 @@
-<a href="https://tek256.com/"><b>blog</b></a>
-  
 <!-- BLOG-POST-LIST:START -->
   May 22 [pursuit of a good life](//tek256.com/posts/pursuit-of-a-good-life/)  
 
