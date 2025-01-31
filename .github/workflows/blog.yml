@@ -31,7 +31,7 @@ jobs:
       - name: Retrieve cache
         uses: actions/cache@v3
         with:
-          path: ${{ github.workspace }}/blueskyfeedbot
+          path: ${{ github.workspace }}/.cache/bsky/
           key: feed-cache-${{ steps.generate-key.outputs.cache-key }}
           restore-keys: feed-cache-
       - name: GitHub
