@@ -1,6 +1,7 @@
 name: Latest blog post workflow
 
 on:
+ workflow_dispatch:
  schedule:
     - cron: '0 */6 * * *'
 
@@ -17,3 +18,34 @@ jobs:
           max_post_count: 4
           template: "$newline  $date [$title]($url)  $newline"
           date_format: "mm.dd.yy"
+  update-bsky-with-blog:
+    name: Update bluesky with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate cache key
+        uses: actions/github-script@v6
+        id: generate-key
+        with:
+          script: |
+            core.setOutput('cache-key', new Date().valueOf())
+      - name: Retrieve cache
+        uses: actions/cache@v3
+        with:
+          path: ${{ github.workspace }}/blueskyfeedbot
+          key: feed-cache-${{ steps.generate-key.outputs.cache-key }}
+          restore-keys: feed-cache-
+      - name: GitHub
+        uses: 'joschi/blueskyfeedbot@v0.0.2'
+        with:
+          # This is the RSS feed you want to publish
+          rss-feed: https://tek256.com/posts/index.xml
+          # Template of status posted to Bluesky (Handlebars)
+          template: '{{item.title}} {{item.link}}'
+          # This is your service URL (optional)
+          service-url: https://bsky.social
+          # This is the Bluesky username (example: username.bsky.social)
+          username: ${{ inputs.BSKY_USER }}
+          # This is the app password you created earlier
+          password: ${{ secrets.BSKY_AUTH }}
+          # This is a path to the cache file, using the above cache path
+          cache-file: ${{ github.workspace }}/.cache/bsky/cache.json
