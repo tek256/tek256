@@ -44,7 +44,7 @@ jobs:
           # This is your service URL (optional)
           service-url: https://bsky.social
           # This is the Bluesky username (example: username.bsky.social)
-          username: ${{ inputs.BSKY_USER }}
+          username: ${{ vars.BSKY_USER }}
           # This is the app password you created earlier
           password: ${{ secrets.BSKY_AUTH }}
           # This is a path to the cache file, using the above cache path
